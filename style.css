@@ -20,6 +20,28 @@
 .links__cabecalho{
   color: black;
   font-size: 20px;
+  text-decoration: none; 
+}
+
+.tabela-index{
+  border: 0;
+  width: 900px;
+}
+
+.imagem__cabecalho{
+  height: 89px;
+}
+
+.imagem-logo-DCAC{
+  width: 185px;
+}
+
+.capa-DCAC{
+  height: 410px;
+  width: 900px;
+}
+
+.linkplo{
   text-decoration: none;
 }
 
