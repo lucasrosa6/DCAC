@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="PT-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/icon/icon-marrom.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <title>&#10022; Relação Campo Cidade &#10022;</title>
+</head>
+
+<header class="relacao-cabecalho">
+    <div class="relacao-cabecalho__caixa">
+        <img src="img/logos/DCAC - normal.png" alt="LOGO DCAC" class="relacao-cabecalho__imagem">
+    </div>
+</header>
+
+<body>
+    <div class="relacao-conteudo">
+        <br>
+        <div class="relacao-conteudo__caixa">
+
+            <img src="img/imagens/RELAÇÃO CAMPO CIDADE - fundo.png" alt="FUNDO RELAÇÃO CAMPO CIDADE" class="relacao-conteudo__imagem">
+            <img src="img/titulos/relação-campo-cidade.png" alt="TITULO RELAÇÃO CAMPO CIDADE" class="relacao-conteudo__titulo">
+
+            <p class="relacao-conteudo__texto">A relação entre o campo e a cidade é complexa e dependente. A cidade é um centro de desenvolvimento econômico, oferecendo serviços e transformando produtos agrícolas em bens de consumo. Ela também atraiu muitas pessoas do campo, em busca de melhores condições de vida e trabalho, especialmente durante a industrialização.</p>
+            <img src="img/cenarios/vendedor-ovo.png" alt="VENDEDOR OVO" class="relacao-conteudo__cenario">
+            
+            <p class="relacao-conteudo__texto">O campo, por outro lado, fornece recursos essenciais como alimentos e matérias-primas para a cidade. Com o avanço tecnológico, o campo também se modernizou, adquirindo práticas urbanas que aumentam a eficiência na produção.</p>
+            <p class="relacao-conteudo__texto">Essa dependência é vital para ambos os lados. A cidade não apenas controla os meios de produção e mercado, mas também depende do campo para o fornecimento de alimentos e outros recursos básicos. O campo, ao adotar tecnologias da cidade, melhora sua produtividade e sustentabilidade, beneficiando a economia e a qualidade da vida no campo.</p>
+            <img src="img/cenarios/exportação-alimento.png" alt="EXPORTAÇÃO ALIMENTOS" class="relacao-conteudo__cenario">
+            
+            <p class="relacao-conteudo__texto">A migração campo-cidade foi intensa durante a industrialização, buscando melhores oportunidades de emprego e vida. No entanto, o campo tem se modernizado, adotando tecnologias e práticas inovadoras que aproximam suas condições às da cidade. Isso inclui o acesso à serviços de saúde, educação e infraestrutura, fortalecendo ainda mais a conexão entre os dois.</p>
+            <p class="relacao-conteudo__texto">Essa modernização inclui o uso de tecnologias avançadas, como a internet, para acessar informações sobre clima, técnicas agrícolas e mercados. Além disso, os serviços urbanos de saúde e educação melhoram a qualidade da vida rural.</p>
+            <img src="img/cenarios/previsão-tempo.png" alt="APRESENTADOR PREVISÃO TEMPO" class="relacao-conteudo__cenario">
+            
+            <br><br>
+            
+            <h4 class="relacao-conteudo__link">Polon, Luana Caroline Kunast. "As Relações entre a Cidade e o Campo." Brasil Escola, disponível em: <a href="https://meuartigo.brasilescola.uol.com.br/geografia/as-relacoes-entre-cidade-campo.htm#:~:text=A%20cidade%20n%C3%A3o%20apenas%20controla,b%C3%A1sicos%20de%20vida%2C%20como%20alimentos." class="linkplo">https://meuartigo.brasilescola.uol.com.br/geografia/as-relacoes-entre-cidade-campo</a> Acesso em: 21 maio 2024.</h4>
+
+            <br><br><br>
+
+        </div>
+        <br>
+    </div>
+
+    <div class="relacao-roda-pe">
+        <div class="relacao-roda-pe__primeiro-container">
+            <img src="img/icon/icon-marrom.png" alt="ICON MARROM" class="relacao-roda-pe__icone">
+            <img src="img/logos/DCAC - normal.png" alt="LOGO DCAC" class="relacao-roda-pe__logo">
+        </div>
+
+        <div class="relacao-roda-pe__segundo-container">
+            
+            <a href="https://www.facebook.com/profile.php?id=61560007986039"><img src="img/link/facebook.webp" alt="LOGO FACEBOOK" class="roda-pe__link"></a>
+            <a href="mailto:dcac.projeto@gmail.com"><img src="img/link/gmail.jpg" alt="LOGO G-MAIL" class="roda-pe__link"></a>
+            <a href="https://www.instagram.com/dcac.projeto/tagged/"><img src="img/link/instagram.jpg" alt="LOGO INSTAGRAM" class="roda-pe__link"></a>
+            <a href="https://x.com/DcacProjeto"><img src="img/link/x.jpg" alt="LOGO X" class="roda-pe__link-x"></a>
+            
+        </div>
+    </div>
+
+    <div class="menu-container">
+        <img src="img/menus/menu-normal.png" alt="MENU" class="menu-button" onclick="toggleDropdown()">
+        <div class="dropdown-content" id="dropdown">
+            <a href="index.html"><img src="img/titulos/sobre-a-dcac.png" alt="OPÇÃO 1 - SOBRE A DCAC"></a>
+            <a href="programa-agrinho.html"><img src="img/titulos/programa-agrinho.png" alt="OPÇÃO 2 - PROGRAMA AGRINHO"></a>
+            <a href="relacao-campo-cidade.html"><img src="img/titulos/relação-campo-cidade.png" alt="OPÇÃO 3 - RELAÇÃO CAMPO CIDADE"></a>
+            <a href="tecnologia.html"><img src="img/titulos/tecnologias.png" alt="OPÇÃO 4 - TECNOLOGIAS"></a>
+            <a href="feira-de-comercio.html"><img src="img/titulos/feiras de comércios.png" alt="OPÇÃO 5 - FEIRAS DE COMÉRCIOS"></a>
+            <a href="plantas.html"><img src="img/titulos/plantas-para-cultivar.png" alt="OPÇÃO 6 - PLANTAS PARA CULTIVAR"></a>
+        </div>
+    </div>
+
+    <script>
+        function toggleDropdown() {
+            var dropdown = document.getElementById("dropdown");
+            if (dropdown.style.display === "none" || dropdown.style.display === "") {
+                dropdown.style.display = "flex";
+            } else {
+                dropdown.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>

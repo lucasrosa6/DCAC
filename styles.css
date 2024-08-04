@@ -1,0 +1,113 @@
+/*Sobre a DCAC*/
+
+@import url(styles/SobreADCAC/cabecalho.css);
+@import url(styles/SobreADCAC/conteudo.css);
+@import url(styles/SobreADCAC/roda-pe.css);
+@import url(styles/SobreADCAC/menu.css);
+
+/*Programa Agrinho*/
+
+@import url(styles/ProgramaAgrinho/agrinho-cabecalho.css);
+@import url(styles/ProgramaAgrinho/agrinho-conteudo.css);
+@import url(styles/ProgramaAgrinho/agrinho-roda-pe.css);
+@import url(styles/ProgramaAgrinho/agrinho-menu.css);
+
+/*Relação Campo Cidade*/
+
+@import url(styles/RelaçãoCampoCidade/relacao-cabecalho.css);
+@import url(styles/RelaçãoCampoCidade/relacao-conteudo.css);
+@import url(styles/RelaçãoCampoCidade/relacao-roda-pe.css);
+
+/*Tecnologia*/
+
+@import url(styles/Tecnologia/tec.cabecalho.css);
+@import url(styles/Tecnologia/tec.conteudo.css);
+@import url(styles/Tecnologia/roda-pe.css);
+@import url(styles/Tecnologia/tec.menu.css);
+
+
+/*Feira de Comércios*/
+
+@import url(styles/FeiraDeComercio/feira-cabecalho.css);
+@import url(styles/FeiraDeComercio/feira-conteudo.css);
+@import url(styles/FeiraDeComercio/feira.css);
+@import url(styles/FeiraDeComercio/feira-roda-pe.css);
+
+/*Plantas para Cultivar em casa*/
+
+@import url(styles/Plantas/plantas-cabecalho.css);
+@import url(styles/Plantas/plantas-conteudo.css);
+@import url(styles/Plantas/planta-roda-pe.css);
+
+	/*Suculenta*/
+
+	@import url(styles/Plantas/Suculenta/suculenta-cabecalho.css);
+	@import url(styles/Plantas/Suculenta/suculenta-conteudo.css);
+	@import url(styles/Plantas/Suculenta/suculenta-roda-pe.css);
+
+	/*Cactos*/
+
+	@import url(styles/Plantas/Cactos/cactos-cabecalho.css);
+	@import url(styles/Plantas/Cactos/cactos-conteudo.css);
+	@import url(styles/Plantas/Cactos/cactos-roda-pe.css);
+
+	/*Violeta*/
+
+	@import url(styles/Plantas/Violeta/violeta-cabecalho.css);
+	@import url(styles/Plantas/Violeta/violeta-conteudo.css);
+	@import url(styles/Plantas/Violeta/violeta-roda-pe.css);
+
+	/*Lírio da Paz*/
+
+	@import url(styles/Plantas/LírioDaPaz/lirio-cabecalho.css);
+	@import url(styles/Plantas/LírioDaPaz/lirio-conteudo.css);
+	@import url(styles/Plantas/LírioDaPaz/lirio-roda-pe.css);
+
+	/*cabo*/
+
+
+/*RESET CSS LICENSA GRATUITA*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="PT-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/icon/icon-marrom.png" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <title>&#10022; Feiras de Comércios &#10022;</title>
+</head>
+
+<header class="feira-cabecalho">
+    <div class="feira-cabecalho__caixa">
+        <img src="img/logos/DCAC - normal.png" alt="LOGO DCAC" class="feira-cabecalho__imagem">
+    </div>
+</header>
+
+<body>
+    <div class="feira-conteudo">
+        <br>
+        <div class="feira-conteudo__caixa">
+
+            <img src="img/imagens/FEIRA - fundo.png" alt="FUNDO FEIRA" class="feira-conteudo__imagem">
+            <img src="img/titulos/feiras de comércios.png" alt="TITULO FEIRAS DE COMÉRCIOS" class="feira-conteudo__titulo">
+
+            <h2 class="feira-conteudo__titulo-t">Feiras de Comércio: Sustentando a Vida no Campo</h2>
+            <p class="feira-conteudo__texto">As feiras de comércio são eventos essenciais que permitem aos produtores rurais viver do campo sem precisar sair dele. Realizadas tanto em áreas urbanas quanto rurais, essas feiras oferecem uma oportunidade para a venda direta de produtos agrícolas e artesanais, aumentando os lucros.</p>
+
+            <h2 class="feira-conteudo__titulo-t">Benefícios das Feiras de Comércio</h2>
+            <p class="feira-conteudo__texto">Para os agricultores e artesãos, as feiras representam uma oportunidade de vender seus produtos diretamente aos consumidores, estabelecendo uma conexão unica com os consumidores. Realizadas em diversos locais, geralmente nos centros das cidades, essas feiras ampliam o alcance dos produtos e disponibiliza uma fonte de renda.</p>
+
+            <h2 class="feira-conteudo__titulo-t">Vantagens para os Moradores do Campo</h2>
+            <p class="feira-conteudo__texto">As feiras de comércio garantem uma fonte de renda estável para os moradores rurais, permitindo que utilizem seus conhecimentos locais para produzir alimentos frescos e artesanato valorizado na cidade e no campo.</p>
+
+            <h2 class="feira-conteudo__titulo-t">Impacto nas Comunidades</h2>
+            <p class="feira-conteudo__texto">As feiras fortalecem a economia do local onde estão sendo feitas e incentivam o consumo de produtos frescos. Ao comprar diretamente dos produtores, os consumidores cada vez mais apoiam a economia daquela local e ajudam a preservar tradições e culturas rurais. Em resumo, as feiras de comércio são essenciais para a sustentabilidade das comunidades rurais, beneficiando tanto os produtores quanto os consumidores da feira local.</p>
+            
+            <br><br><br>
+
+        </div>
+        <br>
+
+        <div class="feira-conteudo__caixa-aldeao">
+            <h2 class="texto-loja-t">Lojinha do Gilberto</h2>
+            <p class="texto-loja">Bem-vindo! Essa é a lojinha do Gilberto, ele é um agricultor que faz o que pode para ganhar os seus lucros do dia a dia</p>
+            <p class="texto-loja">Você acabou de ganhar algumas moedas (10), compre algo na lojinha dele.</p>
+            <br><br><br>
+                <div class="container">
+                    <div class="vendedor">
+                        <img src="img/personagens/vilagger.png" alt="GILBERTO">
+                    </div>
+                    <div class="loja">
+                        <div class="item" id="pao">
+                            <img src="img/itens/pão.webp" alt="PÃO">
+                            <p class="texto">&nbsp;&nbsp;&nbsp;Pão - 2 Moedas</p>
+                            <button onclick="comprarItem(2, 'img/itens/pão.webp')">Comprar</button>
+                        </div>
+                        <div class="item" id="carne">
+                            <img src="img/itens/carne.png" alt="CARNE">
+                            <p class="texto">Carne - 3 Moedas</p>
+                            <button onclick="comprarItem(3, 'img/itens/carne.png')">Comprar</button>
+                        </div>
+                        <div class="item" id="Limonada">
+                            <img src="img/itens/limonada.png" alt="LIMONADA">
+                            <p class="texto">Limonada - 1 Moeda</p>
+                            <button onclick="comprarItem(1, 'img/itens/limonada.png')">Comprar</button>
+                        </div>
+                    </div>
+                    <div class="moedas">
+                        <img src="img/itens/moeda.png" alt="MOEDAS">
+                        <p class="texto">Moedas: <span id="moedas">10</span></p>
+                    </div>
+                </div>
+                <div class="inventario">
+                    <h2 class="texto">Itens Comprados:</h2>
+                    <div id="itensComprados"></div>
+                </div>
+                <br><br><br>
+            </div>
+            <script src="js/FeiraDeComercio/feira.js"></script>    
+            <br><br><br>
+        
+        <br><br>
+    </div>
+
+    
+
+    <div class="feira-roda-pe">
+        <div class="feira-roda-pe__primeiro-container">
+            <img src="img/icon/icon-marrom.png" alt="ICON MARROM" class="feira-roda-pe__icone">
+            <img src="img/logos/DCAC - normal.png" alt="LOGO DCAC" class="feira-roda-pe__logo">
+        </div>
+
+        <div class="feira-roda-pe__segundo-container">
+            
+            <a href="https://www.facebook.com/profile.php?id=61560007986039"><img src="img/link/facebook.webp" alt="LOGO FACEBOOK" class="roda-pe__link"></a>
+            <a href="mailto:dcac.projeto@gmail.com"><img src="img/link/gmail.jpg" alt="LOGO G-MAIL" class="roda-pe__link"></a>
+            <a href="https://www.instagram.com/dcac.projeto/tagged/"><img src="img/link/instagram.jpg" alt="LOGO INSTAGRAM" class="roda-pe__link"></a>
+            <a href="https://x.com/DcacProjeto"><img src="img/link/x.jpg" alt="LOGO X" class="roda-pe__link-x"></a>
+            
+        </div>
+    </div>
+
+    <div class="menu-container">
+        <img src="img/menus/menu-normal.png" alt="MENU" class="menu-button" onclick="toggleDropdown()">
+        <div class="dropdown-content" id="dropdown">
+            <a href="index.html"><img src="img/titulos/sobre-a-dcac.png" alt="OPÇÃO 1 - SOBRE A DCAC"></a>
+            <a href="programa-agrinho.html"><img src="img/titulos/programa-agrinho.png" alt="OPÇÃO 2 - PROGRAMA AGRINHO"></a>
+            <a href="relacao-campo-cidade.html"><img src="img/titulos/relação-campo-cidade.png" alt="OPÇÃO 3 - RELAÇÃO CAMPO CIDADE"></a>
+            <a href="tecnologia.html"><img src="img/titulos/tecnologias.png" alt="OPÇÃO 4 - TECNOLOGIAS"></a>
+            <a href="feira-de-comercio.html"><img src="img/titulos/feiras de comércios.png" alt="OPÇÃO 5 - FEIRAS DE COMÉRCIOS"></a>
+            <a href="plantas.html"><img src="img/titulos/plantas-para-cultivar.png" alt="OPÇÃO 6 - PLANTAS PARA CULTIVAR"></a>
+        </div>
+    </div>
+
+    <script>
+        function toggleDropdown() {
+            var dropdown = document.getElementById("dropdown");
+            if (dropdown.style.display === "none" || dropdown.style.display === "") {
+                dropdown.style.display = "flex";
+            } else {
+                dropdown.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>
