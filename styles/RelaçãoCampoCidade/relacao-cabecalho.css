@@ -1,0 +1,14 @@
+.relacao-cabecalho{
+    background-image: url(https://i0.wp.com/www.korosenai.es/wp-content/uploads/2022/12/pizarra-profunda-minecraft.jpg?resize=300%2C225&ssl=1);
+    background-size: 15%;
+}
+
+.relacao-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.relacao-cabecalho__imagem{
+    width: 15%;
+}
+

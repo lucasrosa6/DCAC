@@ -1,0 +1,14 @@
+.feira-cabecalho{
+    background-image: url(https://preview.redd.it/rmy5paqj0zf51.png?width=1024&format=png&auto=webp&s=ff5dc0136977343781a457d162b623847b579034);
+    background-size: 15%;
+}
+
+.feira-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.feira-cabecalho__imagem{
+    width: 15%;
+}
+

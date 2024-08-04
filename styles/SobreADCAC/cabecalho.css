@@ -1,0 +1,14 @@
+.cabecalho{
+    background-image: url(https://th.bing.com/th/id/R.75c40a5455c61e3d244ce5154873a0d9?rik=gPZyud1nFSIb%2bg&pid=ImgRaw&r=0);
+    background-size: 15%;
+}
+
+.cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.cabecalho__imagem{
+    width: 15%;
+}
+

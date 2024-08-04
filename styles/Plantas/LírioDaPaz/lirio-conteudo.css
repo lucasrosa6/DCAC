@@ -1,0 +1,53 @@
+.lirio-conteudo{
+    background-image: url(https://th.bing.com/th/id/OIP.-Zv7WfeliDh4djRTOADy1gHaHa?rs=1&pid=ImgDetMain);
+    background-size: 15%;  
+}
+
+.lirio-conteudo__caixa{
+    margin: 5% 10%;
+    background-color: #d4d4d4;
+    border-radius: 4em;
+    text-align: center;
+}
+
+.lirio-conteudo__imagem{
+    margin: 0% 10% 0 10%;
+    width: 50%;
+    border-radius: 2em;
+}
+
+.lirio-conteudo__imagem-foto{
+    margin: 0% 10% 0 10%;
+    width: 50%;
+    border-radius: 2em;
+}
+
+.lirio-conteudo__imagem-foto{
+    margin: 5% 10% 0 10%;
+    width: 80%;
+    border-radius: 2em;
+}
+
+.lirio-conteudo__titulo{
+    width: 35%;
+}
+
+.lirio-conteudo__texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: start;
+    margin: 0 10%;
+    margin-bottom: 3%;
+}
+
+.lirio-conteudo__caixa__cenarios{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.lirio-conteudo__cenario{
+    width: 40%;
+    border-radius: 2em;
+    border: #5f3717 5px outset;
+}

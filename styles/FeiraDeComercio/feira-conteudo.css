@@ -1,0 +1,88 @@
+.feira-conteudo{
+    background-image: url(https://th.bing.com/th/id/OIP.8xVsJfiAa_TjnF25ytNsVQAAAA?rs=1&pid=ImgDetMain);
+    background-size: 10%;  
+}
+
+.feira-conteudo__caixa{
+    margin: 5% 10%;
+    background-color: #ffdfae;
+    border-radius: 4em;
+    text-align: center;
+}
+
+.feira-conteudo__caixa-aldeao{
+    margin: 5% 10%;
+    background-color: #7f5b3e;
+    border-radius: 4em;
+    text-align: center;
+}
+
+.feira-conteudo__imagem{
+    margin: 5% 10% 0 10%;
+    width: 80%;
+    border-radius: 2em;
+}
+
+.texto{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto-loja{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: start;
+    margin: 0 10%;
+    color: white;
+}
+
+.texto-loja-t{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: center;
+    margin: 0 10%;
+    color: rgb(197, 182, 182);
+    padding: 3% 0;
+}
+
+.feira-conteudo__titulo{
+    width: 35%;
+}
+
+.feira-conteudo__titulo-t{
+    color: rgb(124, 81, 0);
+    font-size: 24px;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.feira-conteudo__texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: start;
+    margin: 0 10%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.feira-conteudo__caixa__cenarios{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.feira-conteudo__cenario{
+    width: 50%;
+    border-radius: 2em;
+    border: #883d00 5px;
+    border: dotted;
+}
+
+.feira-conteudo__link{
+    text-align: start;
+    padding: 1% 10%;
+    font-family: cursive;
+    font-size: 16px;
+    color: rgb(43, 39, 39);
+}
+

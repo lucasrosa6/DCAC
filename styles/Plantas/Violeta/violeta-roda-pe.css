@@ -1,0 +1,40 @@
+.violeta-roda-pe{
+    background-image: url(https://th.bing.com/th/id/OIP.Ua88hGfU-W2CqmbUWWDLaAAAAA?rs=1&pid=ImgDetMain);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.violeta-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.violeta-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.violeta-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.violeta-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.violeta-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(89, 0, 148);
+}
+
+.violeta-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(89, 0, 148);
+}

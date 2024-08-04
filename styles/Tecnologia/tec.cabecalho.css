@@ -1,0 +1,14 @@
+.tec-cabecalho{
+    background-image: url(https://th.bing.com/th/id/OIP.R_GdmF8HyBgDtPyJYfmFzwAAAA?rs=1&pid=ImgDetMain);
+    background-size: 15%;
+}
+
+.tec-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.tec-cabecalho__imagem{
+    width: 15%;
+}
+

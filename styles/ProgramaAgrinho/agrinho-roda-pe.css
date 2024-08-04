@@ -1,0 +1,40 @@
+.agrinho-roda-pe{
+    background-image: url(https://lh3.googleusercontent.com/8whj5qEkvlQ0NG1rdAAPi6DCdd-xr1CoCQiq-OyqpGnWmv1zEQ_mWAamRziWwaFIxPEOmGZnYMQSNxFuF7pfABlPnKvWSnGevmZL=s400);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.agrinho-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.agrinho-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.agrinho-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.agrinho-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.agrinho-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(154, 255, 154);
+}
+
+.agrinho-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(154, 255, 154);
+}

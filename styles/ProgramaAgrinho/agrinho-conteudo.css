@@ -1,0 +1,89 @@
+.agrinho-conteudo{
+    background-image: url(https://media.forgecdn.net/avatars/497/198/637813046076563123.png);
+    background-size: 15%;  
+}
+
+.agrinho-conteudo__caixa{
+    margin: 5% 10%;
+    background-color: #afeea3;
+    border-radius: 4em;
+    text-align: center;
+}
+
+.agrinho-conteudo__imagem{
+    margin: 5% 10% 0 10%;
+    width: 80%;
+    border-radius: 2em;
+}
+
+.agrinho-conteudo__titulo{
+    width: 35%;
+}
+
+.agrinho-conteudo__texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: start;
+    margin: 0 10%;
+    margin-bottom: 3%;
+}
+
+.agrinho-conteudo__caixa__cenarios{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.agrinho-conteudo__segunda-caixa__video{
+    width: 100%;
+}
+
+.agrinho-conteudo__cenario{
+    width: 40%;
+    border-radius: 2em;
+    border: #175f1b 5px double;
+}
+
+.agrinho-conteudo__cenario-um{
+    width: 38%;
+    border-radius: 2em;
+    border: #175f1b 5px double;
+}
+
+.agrinho-conteudo__cenario-tres{
+    width: 43%;
+    border-radius: 2em;
+    border: #175f1b 5px double;
+    display: inline;
+}
+
+.agrinho-conteudo__video{
+    margin: 1%;
+    width: 85%;
+    height: 450px;
+    display: inline;
+    border-radius: 2em;
+    border: #175f1b 5px double;
+}
+
+.agrinho-conteudo__DCAC-titulo{
+    text-align: center;
+    margin: 5% 0;
+    font-family: cursive;
+    font-size: 2em;
+}
+
+.agrinho-conteudo__DCAC{
+    text-align: start;
+    padding: 0 10%;
+    font-size: 105%;
+    font-family: cursive;
+}
+
+.agrinho-conteudo__link{
+    text-align: start;
+    padding: 1% 10%;
+    font-family: cursive;
+    font-size: 16px;
+    color: rgb(43, 39, 39);
+}

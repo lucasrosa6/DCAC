@@ -1,0 +1,14 @@
+.violeta-cabecalho{
+    background-image: url(https://th.bing.com/th/id/R.d700717266b7d8882d60f313d01b5e2e?rik=82awOj%2fNtM%2fQ%2fQ&pid=ImgRaw&r=0);
+    background-size: 15%;
+}
+
+.violeta-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.violeta-cabecalho__imagem{
+    width: 15%;
+}
+

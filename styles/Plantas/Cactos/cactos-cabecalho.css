@@ -1,0 +1,14 @@
+.cactus-cabecalho{
+    background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/340/15612725-pack-icon_xl.jpg);
+    background-size: 15%;
+}
+
+.cactus-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.cactus-cabecalho__imagem{
+    width: 15%;
+}
+

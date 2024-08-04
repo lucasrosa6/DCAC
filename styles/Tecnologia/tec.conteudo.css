@@ -1,0 +1,100 @@
+.tec-conteudo{
+    background-image: url(https://www.tynker.com/minecraft/api/block?id=57436cc251684fac3d8b4574&w=400&h=400&width=400&height=400&mode=contain&format=jpg&quality=75&cache=max&v=1464036546);
+    background-size: 15%;  
+}
+
+.tec-conteudo__caixa{
+    margin: 5% 10%;
+    background-color: #a3d0ee;
+    border-radius: 4em;
+    text-align: center;
+}
+
+.tec-conteudo__imagem{
+    margin: 5% 10% 0 10%;
+    width: 80%;
+    border-radius: 2em;
+}
+
+.tec-conteudo__titulo{
+    width: 35%;
+}
+
+.tec-conteudo__titulo-tec{
+    width: 50%;
+}
+
+.tec-conteudo__texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: start;
+    margin: 0 10%;
+    margin-bottom: 3%;
+}
+
+.tec-conteudo__caixa__cenarios{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.tec-conteudo__segunda-caixa__video{
+    width: 100%;
+}
+
+.tec-conteudo__cenario{
+    width: 40%;
+    border-radius: 2em;
+    border: #17545f 5px double;
+}
+
+.tec-conteudo__cenario-um{
+    width: 38%;
+    border-radius: 2em;
+    border: #174b5f 5px double;
+}
+
+.tec-conteudo__cenario-tres{
+    width: 43%;
+    border-radius: 2em;
+    border: #17395f 5px double;
+    display: inline;
+}
+
+.tec-conteudo__cenario-dois{
+    width: 38%;
+    border-radius: 2em;
+    border: #17395f 5px double;
+    display: inline;
+}
+
+.tec-conteudo__video{
+    margin: 1%;
+    width: 85%;
+    height: 450px;
+    display: inline;
+    border-radius: 2em;
+    border: #175f1b 5px double;
+}
+
+.tec-conteudo__DCAC-titulo{
+    text-align: center;
+    margin: 5% 0;
+    font-family: cursive;
+    font-size: 2em;
+}
+
+.tec-conteudo__DCAC{
+    text-align: start;
+    padding: 0 10%;
+    font-size: 105%;
+    font-family: cursive;
+}
+
+.tec-conteudo__link{
+    text-align: start;
+    padding: 1% 10%;
+    font-family: cursive;
+    font-size: 16px;
+    color: rgb(43, 39, 39);
+}

@@ -1,0 +1,40 @@
+.feira-roda-pe{
+    background-image: url(https://media.forgecdn.net/avatars/428/479/637661797765156619.png);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.feira-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.feira-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.feira-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.feira-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.feira-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(123, 51, 0);
+}
+
+.feira-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(123, 51, 0);
+}

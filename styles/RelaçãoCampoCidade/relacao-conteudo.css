@@ -1,0 +1,52 @@
+.relacao-conteudo{
+    background-image: url(https://4.bp.blogspot.com/-cRYeqlFoHYo/WCHYk9wxAiI/AAAAAAAAAv8/QesOYiljC_ERwDbyoW9CQR31dAu-NTSvQCLcB/w1200-h630-p-k-no-nu/minecraft%2Btexturas%2Bclassicas%2B-%2B18.jpg);
+    background-size: 15%;  
+}
+
+.relacao-conteudo__caixa{
+    margin: 5% 10%;
+    background-color: #fceac5;
+    border-radius: 4em;
+    text-align: center;
+}
+
+.relacao-conteudo__imagem{
+    margin: 5% 10% 0 10%;
+    width: 80%;
+    border-radius: 2em;
+}
+
+.relacao-conteudo__titulo{
+    width: 35%;
+}
+
+.relacao-conteudo__texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    text-align: start;
+    margin: 0 10%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.relacao-conteudo__caixa__cenarios{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 3%;
+}
+
+.relacao-conteudo__cenario{
+    width: 50%;
+    border-radius: 2em;
+    border: #883d00 5px;
+    border: dotted;
+}
+
+.relacao-conteudo__link{
+    text-align: start;
+    padding: 1% 10%;
+    font-family: cursive;
+    font-size: 16px;
+    color: rgb(43, 39, 39);
+}
+

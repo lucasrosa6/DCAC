@@ -1,0 +1,14 @@
+.plantas-cabecalho{
+    background-image: url(https://media.forgecdn.net/avatars/467/773/637750170339255728.png);
+    background-size: 15%;
+}
+
+.plantas-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.plantas-cabecalho__imagem{
+    width: 15%;
+}
+

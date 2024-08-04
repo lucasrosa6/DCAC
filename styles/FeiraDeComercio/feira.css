@@ -1,0 +1,62 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.vendedor, .moedas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vendedor img, .moedas img {
+    text-align: center;
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.loja {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+
+.item {
+    text-align: center;
+}
+
+.item img {
+    width: 100px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.inventario {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#itensComprados img {
+    width: 50px;
+    height: auto;
+    border-radius: 8px;
+    margin: 5px;
+}

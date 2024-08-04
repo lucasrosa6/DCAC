@@ -1,0 +1,40 @@
+.suculenta-roda-pe{
+    background-image: url(https://www.tynker.com/minecraft/api/block?id=595533c95ae02943528b458f&w=400&h=400&width=400&height=400&mode=contain&format=jpg&quality=75&cache=max&v=1498756041);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.suculenta-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.suculenta-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.suculenta-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.suculenta-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.suculenta-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(148, 0, 0);
+}
+
+.suculenta-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(107, 0, 0);
+}

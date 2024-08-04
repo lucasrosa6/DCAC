@@ -1,0 +1,40 @@
+.planta-roda-pe{
+    background-image: url(https://external-preview.redd.it/U6hZXBDjq3eCKLlPWBEfOxMRBzjMbxogdk2l_GNHXf4.jpg?auto=webp&s=d27189884252f5ef73a3c1ab2d042e226786a288);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.planta-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.planta-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.planta-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.planta-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.planta-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(0, 255, 72);
+}
+
+.planta-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(0, 255, 72);
+}

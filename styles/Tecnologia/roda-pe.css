@@ -1,0 +1,40 @@
+.tec-roda-pe{
+    background-image: url(https://minecraft-max.net/upload/iblock/404/wgf34lrfnkf0h5yvvkzpk7n1c45rnzgp.png);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.tec-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.tec-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.tec-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.tec-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.tec-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(0, 11, 77);
+}
+
+.tec-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(0, 11, 77);
+}

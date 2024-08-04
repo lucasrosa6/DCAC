@@ -1,0 +1,14 @@
+.lirio-cabecalho{
+    background-image: url(https://www.tynker.com/minecraft/api/block?id=5d7d7194ff13b756d8478c8d&w=400&h=400&width=400&height=400&mode=contain&format=jpg&quality=75&cache=max&v=1568502335);
+    background-size: 15%;
+}
+
+.lirio-cabecalho__caixa{
+    text-align: center;
+    width: 100%;
+}
+
+.lirio-cabecalho__imagem{
+    width: 15%;
+}
+

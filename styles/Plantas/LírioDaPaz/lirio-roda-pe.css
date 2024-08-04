@@ -1,0 +1,40 @@
+.lirio-roda-pe{
+    background-image: url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/659/15354227-wbpack_m.jpg);
+    background-size: 15%;
+    width: 100%;
+    display: flex;
+}
+
+.lirio-roda-pe__primeiro-container{
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+}
+
+.lirio-roda-pe__icone{
+    width: 20%;
+    margin: 5% 0% 5% 5%;
+}
+
+.lirio-roda-pe__logo{
+    width: 55%;
+    margin: 5% 0;
+}
+
+.lirio-roda-pe__segundo-container{
+    margin: 5%;
+    text-align: center;
+    width: 100%;
+}
+
+.lirio-roda-pe__link{
+    width: 12%;
+    border-radius: 1em;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.lirio-roda-pe__link-x{
+    width: 11%;
+    border-radius: 1em;
+    border: 2px solid rgb(255, 255, 255);
+}
